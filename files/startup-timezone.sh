@@ -4,7 +4,7 @@ if [ -z $1 ]; then
 fi
 
 if [ ! -e "/usr/share/zoneinfo/$1" ]; then
-    echo "Invalid timezone" >&2./
+    echo "Invalid timezone" >&2
     exit 1
 fi
 

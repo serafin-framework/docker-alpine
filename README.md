@@ -1,6 +1,6 @@
 # Alpine Linux base image
 
-[`serafinframework/alpine`](https://hub.docker.com/r/serafinframework/alpine/)
+[`serafinlabs/alpine`](https://hub.docker.com/r/serafinlabs/alpine/)
 
 An [Alpine Linux](https://alpinelinux.org/) base image, with  ready to install developer tools
 including zsh with a developer setup.
