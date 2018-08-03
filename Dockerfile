@@ -1,4 +1,4 @@
-FROM alpine:3.7
+FROM alpine:3.8
 LABEL maintainer="Nicolas Degardin <degardin.n@gmail.com>"
 
 ENV PATH .:$PATH
