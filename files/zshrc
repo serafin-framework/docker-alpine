@@ -32,7 +32,7 @@ export ZSH=/etc/zsh/oh-my-zsh
 ZSH_THEME="fletcherm"
 DISABLE_AUTO_UPDATE="true"
 
-plugins=(svn-fast-info gitfast history dirhistory dircycle man common-aliases colored-man-pages colorize zsh-syntax-highlighting sudo json-tools urltools encode64)
+plugins=(svn-fast-info gitfast history dirhistory dircycle man common-aliases colored-man-pages colorize sudo urltools encode64)
 
 source $ZSH/oh-my-zsh.sh
 
